@@ -9,6 +9,7 @@ body{
     background-repeat: no-repeat;
     background-position: center;
     background-color: white;
+    text-align: center;
 
 }
 
@@ -34,7 +35,7 @@ body{
 }
 
 .navigate li:hover{
-    background: pink;
+    background: lightgray;
     font-size: 12pt;
 }
 
@@ -43,6 +44,20 @@ body{
     width: 100%;
 
 }
+.input{
+    padding: 40px;
+    border: solid gray;
+    margin-top: 10px;
+    margin-right: 16px;
+    font-size: 17px;
+    background: #f1f1f1;
+    margin: auto;
+    
+
+ 
+}
+
+
 .Restaurant Name {
     flex: 1 1 auto;
     margin-left: 100%;
