@@ -11,6 +11,9 @@
     <link rel="stylesheet" href="css/index.css" />
   </head>
   <body>
+      <?php
+      echo "This is PHP code";
+      >
     <div class="content">
       <nav class="navbar">
         <div class="social-media">
