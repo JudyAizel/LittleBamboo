@@ -11,7 +11,9 @@
     <link rel="stylesheet" href="css/index.css" />
   </head>
   <body>
-   <img src="assets/img/logo.png"/>
+      <div class="logo"> 
+      <img src="assets/img/logo1.png">
+           </div>
     <div class="content">
       <nav class="navbar">
         <div class="social-media">
@@ -24,9 +26,10 @@
           <a href="#" class="nav-link">
             <img src="https://img.icons8.com/ios/50/000000/twitter.png" />
           </a>
+             
         </div>
         <div class="brand">Little Bamboo</div>
-        <div class="searchbar"> 
+        <div class="searchbar">
           <input type="text" placeholder="Search" />
           <a class="btn-search">
             <svg
