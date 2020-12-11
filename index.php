@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="css/index.css" />
   </head>
   <body>
+   <img src="assets/img/logo.png"/>
     <div class="content">
       <nav class="navbar">
         <div class="social-media">
