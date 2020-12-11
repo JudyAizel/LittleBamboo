@@ -13,7 +13,8 @@
   <body>
       <div class="center"> 
           <img src="assets/img/logo1.png">
-           </div>
+          
+      </div>
     <div class="content">
       <nav class="navbar">
         <div class="social-media">
