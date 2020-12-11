@@ -66,8 +66,6 @@
         </div>
       </nav>
     </div>
-      <div class="center"> 
-          <img src="assets/img/logo1.png"> 
-      </div>
+    
   </body>
 </html>

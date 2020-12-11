@@ -4,6 +4,7 @@ body {
   width: 100%;
   margin: 0;
   font-family: "Inter", sans-serif;
+  background-image: url(assets/img/logo1.png)
 }
 
 * {
@@ -67,10 +68,4 @@ body {
   justify-content: center;
   align-items: center;
 }
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-    justify-content: center;
-  align-items: center;
-}
+
