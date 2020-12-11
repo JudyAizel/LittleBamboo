@@ -26,7 +26,7 @@
           </a>
         </div>
         <div class="brand">Little Bamboo</div>
-        <div class="searchbar">
+        <div class="searchbar"> 
           <input type="text" placeholder="Search" />
           <a class="btn-search">
             <svg
