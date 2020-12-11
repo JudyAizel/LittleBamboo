@@ -11,9 +11,7 @@
     <link rel="stylesheet" href="css/index.css" />
   </head>
   <body>
-      <div class="logo"> 
-      <img src="assets/img/logo1.png">
-           </div>
+      
     <div class="content">
       <nav class="navbar">
         <div class="social-media">
@@ -69,5 +67,8 @@
         </div>
       </nav>
     </div>
+      <div class="logo"> 
+      <img src="assets/img/logo1.png">
+           </div>
   </body>
 </html>
