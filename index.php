@@ -2,6 +2,7 @@
 
 <head>
     <title>LittleBamboo - Judy's Delicacies</title>
+<<<<<<< HEAD
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;500;600&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="css/index.css" />
 </head>
@@ -74,6 +75,28 @@
                 <h3>Email us:</h3>
                 <p>littleBamboo.delicacies@gmail.com</p>
             </div>
+=======
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="index.css" />
+  </head>
+  <body>
+    <div class="content">
+      <nav class="navbar">
+        <div class="social-media">
+          <a href="#" class="nav-link">
+            <img src="https://img.icons8.com/ios/50/000000/facebook-new.png" />
+          </a>
+          <a href="#" class="nav-link">
+            <img src="https://img.icons8.com/ios/50/000000/instagram-new.png" />
+          </a>
+          <a href="#" class="nav-link">
+            <img src="https://img.icons8.com/ios/50/000000/twitter.png" />
+          </a>
+             
+>>>>>>> 1adcd6051c64d081543bd7f2471cdbf64cb4bcc2
         </div>
     </div>
     
@@ -125,8 +148,13 @@
             </div>
         </div>
     </div>
+<<<<<<< HEAD
 
   <script src="js/index.js"></script>
 </body>
 
 </html>
+=======
+  </body>
+</html>
+>>>>>>> 1adcd6051c64d081543bd7f2471cdbf64cb4bcc2
