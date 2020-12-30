@@ -151,10 +151,3 @@
 
 
   <script src="js/index.js"></script>
-</body>
-
-</html>
-=======
-  </body>
-</html>
->>>>>>> 1adcd6051c64d081543bd7f2471cdbf64cb4bcc2
