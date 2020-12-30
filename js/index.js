@@ -21,11 +21,8 @@ leftBtn.addEventListener('click', e=>{
         delicacyContainer.prepend(delicacyContainer.lastElementChild)
         delicacyContainer.style.transition = 'none';
         delicacyContainer.style.transform = "translate(0)";
-
-        setTimeout(function () {
-            delicacyContainer.style.transition = 'all 0.5s';
-        });
-    }, 600)
+    }, 500);
+    delicacyContainer.style.transition = 'all 0.5s';
 
     currentSlide--
     if (currentSlide >= 0) {
@@ -46,11 +43,8 @@ rightBtn.addEventListener('click', e=>{
         delicacyContainer.appendChild(delicacyContainer.firstElementChild);
         delicacyContainer.style.transition = 'none';
         delicacyContainer.style.transform = "translate(0)";
-
-        setTimeout(function () {
-            delicacyContainer.style.transition = 'all 0.5s';
-        });
-    }, 600)
+    }, 500);
+    delicacyContainer.style.transition = 'all 0.5s';
 
     currentSlide++
     if (currentSlide < pagination.length) {
