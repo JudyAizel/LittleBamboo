@@ -2,7 +2,6 @@
 
 <head>
     <title>LittleBamboo - Judy's Delicacies</title>
-<<<<<<< HEAD
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;500;600&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="css/index.css" />
 </head>
