@@ -148,7 +148,7 @@
             </div>
         </div>
     </div>
-<<<<<<< HEAD
+
 
   <script src="js/index.js"></script>
 </body>
